@@ -19,7 +19,7 @@ Jakie teraz chcesz mieć dpi
 <br />
 <input type="text" name="nowedpi" />
 <br />
-<input type="submit" value="Policz aktualne dpi" />
+<input type="submit" value="Policz aktualną czułośc" />
 
 
 </form>
